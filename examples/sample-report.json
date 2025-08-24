@@ -1,0 +1,10 @@
+{
+  "domain": "example.com",
+  "ip": "23.220.75.245",
+  "dns_ok": true,
+  "icmp": {"enabled": false, "ok": false, "avg_ms": null, "loss_pct": null},
+  "tcp": {"port": 443, "ok": true},
+  "http": {"ok": true, "code": 200, "time_total_s": 0.265211, "remote_ip": "2600:1408:ec00:36::1736:7f31", "ssl_verify_result": "0"},
+  "timestamp": "2025-08-24T16:52:19Z",
+  "overall_ok": true
+}
